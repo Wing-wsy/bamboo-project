@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/bamboo/bamboo-business/business-admin/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/bamboo/bamboo-business/business-admin/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/bamboo/bamboo-business/business-official/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/bamboo/bamboo-business/business-official/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/bamboo/bamboo-business/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/bamboo/bamboo-business/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/bamboo/bamboo-services/service-doc/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/bamboo/bamboo-services/service-doc/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/bamboo/bamboo-services/service-notice/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/bamboo/bamboo-services/service-notice/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/bamboo/bamboo-services/service-payment/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/bamboo/bamboo-services/service-payment/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/bamboo/bamboo-services/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/bamboo/bamboo-services/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/bamboo/bamboo-support/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/bamboo/bamboo-support/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/bamboo/bamboo-support/support-config/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/bamboo/bamboo-support/support-config/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/bamboo/bamboo-support/support-discovery/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/bamboo/bamboo-support/support-discovery/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/bamboo/bamboo-technology/bamboo-common/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/bamboo/bamboo-technology/bamboo-common/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/bamboo/bamboo-technology/bamboo-core/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/bamboo/bamboo-technology/bamboo-core/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/bamboo/bamboo-technology/bamboo-data-jpa/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/bamboo/bamboo-technology/bamboo-data-jpa/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/bamboo/bamboo-technology/bamboo-data-mybatis/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/bamboo/bamboo-technology/bamboo-data-mybatis/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/bamboo/bamboo-technology/bamboo-data/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/bamboo/bamboo-technology/bamboo-data/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/bamboo/bamboo-technology/bamboo-security/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/bamboo/bamboo-technology/bamboo-security/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/bamboo/bamboo-technology/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/bamboo/bamboo-technology/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/bamboo/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/bamboo/src/main/resources" charset="UTF-8" />
+  </component>
+</project>

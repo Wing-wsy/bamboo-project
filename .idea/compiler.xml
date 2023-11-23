@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="bamboo-data-mybatis" />
+        <module name="bamboo-core" />
+        <module name="support-discovery" />
+        <module name="business-admin" />
+        <module name="service-notice" />
+        <module name="bamboo-security" />
+        <module name="business-official" />
+        <module name="support-config" />
+        <module name="bamboo-data-jpa" />
+        <module name="service-doc" />
+        <module name="bamboo-data" />
+        <module name="service-payment" />
+        <module name="bamboo-common" />
+      </profile>
+    </annotationProcessing>
+  </component>
+</project>
