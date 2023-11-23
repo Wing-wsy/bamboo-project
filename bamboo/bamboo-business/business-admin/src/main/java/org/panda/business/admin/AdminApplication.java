@@ -21,6 +21,7 @@ import org.springframework.transaction.annotation.EnableTransactionManagement;
 @MapperScan("org.panda.business.admin.modules.*.service.repository")
 public class AdminApplication {
     public static void main(String[] args) {
+         System.out.println("wangshaoyou-test1");
         SpringApplication.run(AdminApplication.class,args);
     }
 }
