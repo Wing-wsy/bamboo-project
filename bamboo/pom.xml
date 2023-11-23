@@ -32,6 +32,7 @@
         <spring-boot1.version>2.3.12.RELEASE</spring-boot1.version>
         <spring1.version>5.2.15.RELEASE</spring1.version>
 
+        <!-- test3 -->
         <!-- 新版稳定spring套件，最低JDK11版本 -->
         <!-- test1 -->
         <spring-cloud.version>2021.0.5</spring-cloud.version>
