@@ -12,7 +12,7 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
 /**
- * 权限验证模版控制器
+ * 权限验证模版控制器 修改BUG完成
  *
  * @author fangen
  **/

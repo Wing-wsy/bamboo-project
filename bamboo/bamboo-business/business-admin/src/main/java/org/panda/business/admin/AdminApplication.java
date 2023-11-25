@@ -34,5 +34,22 @@ public class AdminApplication {
         System.out.println("业务处理");
         System.out.println("测试分支结束");
         System.out.println("测试分支01");
+
+        // 测试分支正常提交代码
+        System.out.println("测试分支02");
+        System.out.println("测试分支03");
+        // 测试分支正常提交代码-第二次
+        System.out.println("测试分支04");
+        System.out.println("测试分支05");
+        /*
+         * 这里是提交订单功能开发
+         * */
+
+        System.out.println("提交订单功能开开始");
+        System.out.println("业务处理");
+        System.out.println("修改中。。。");
+        System.out.println("提交订单功能结束");
+
+        System.out.println("继续开发。。");
     }
 }
