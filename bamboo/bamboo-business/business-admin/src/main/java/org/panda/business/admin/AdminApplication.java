@@ -12,6 +12,7 @@ import org.springframework.transaction.annotation.EnableTransactionManagement;
 /**
  * Application启动类 commit01 commit02 commit02 commit03 commit033333
  *
+ *
  * @author fangen
  */
 @SpringBootApplication
@@ -24,5 +25,13 @@ public class AdminApplication {
          System.out.println("wangshaoyou-test1");
         System.out.println("wsy-test2");
         SpringApplication.run(AdminApplication.class,args);
+
+        /*
+        * 这里是测试分支功能
+        * */
+
+        System.out.println("测试分支开始");
+        System.out.println("业务处理");
+        System.out.println("测试分支结束");
     }
 }
