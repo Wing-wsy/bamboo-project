@@ -34,5 +34,11 @@ public class AdminApplication {
         System.out.println("业务处理");
         System.out.println("测试分支结束");
         System.out.println("测试分支01");
+
+        // 测试分支正常提交代码
+        System.out.println("测试分支02");
+        System.out.println("测试分支03");
+
+
     }
 }
