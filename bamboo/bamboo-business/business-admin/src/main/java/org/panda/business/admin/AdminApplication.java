@@ -38,6 +38,9 @@ public class AdminApplication {
         // 测试分支正常提交代码
         System.out.println("测试分支02");
         System.out.println("测试分支03");
+        // 测试分支正常提交代码-第二次
+        System.out.println("测试分支04");
+        System.out.println("测试分支05");
 
 
     }
